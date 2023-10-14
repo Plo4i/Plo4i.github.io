@@ -8,85 +8,14 @@ body {
     padding: 0;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 25px;
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-nav ul li {
-    float: left;
-    margin-right: 10px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-section {
-    padding: 20px;
-}
-
-h1,
-h2,
-h3 {
-    color: #333;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
+#hometown .img-fluid {
+    max-width: 50%;
 }
 
 footer {
-    text-align: center;
-    padding: 10px;
     background-color: #333;
+}
+
+footer p {
     color: #fff;
 }
-
-table tr{
-    margin: 0 30%;
-}
-
-td{
-    padding: 1%;
-}
-
-#hometown{
-    border-top: #333 solid 3px;
-    border-bottom: #333 solid 3px;
-}
-
-.hometown-img{
-    background-color: #ade292;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60%;
-    border: #486a37 solid 3px;
-}
-
-.hometown-info{
-    width: 65%;
-}
-
-.via-img {
-    background-color: #475c7a;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: #202d40 solid 3px;
-}
-
-.via-info{
-    width: 65%;
-}
-
